@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+/medium-next/node_modules
+/medium-next
 /.pnp
 .pnp.js
 
